@@ -249,5 +249,5 @@ The project transforms raw source data into a **structured, clean, and analysis-
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository.
+
 
